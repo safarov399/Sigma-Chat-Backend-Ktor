@@ -1,0 +1,1 @@
+rootProject.name = "com.safarov399.sigma.chat.ktor"
